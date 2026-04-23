@@ -1,4 +1,5 @@
-export const GEMINI_API_KEY = 'AIzaSyBNDqFSheefHGOeZCHLH34cKDGcNgtzI-k';
+// Write own Chatot API key//
+export const GEMINI_API_KEY = 'Enter own API_key';
 
 export const AI_AGENTS = [
   { id: 'nexus',    label: 'Nexus',    icon: '✦', color: '#7c3aed', desc: 'General Intelligence' },
